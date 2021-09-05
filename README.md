@@ -14,41 +14,45 @@ Welcome to the GitHub for the FOSview (Free and Open Source overView) [EVE Onlin
 
 3. Navigate to `Overview Settings > Misc` and click "Reset All Overview Settings."
 
-4. Download the .yaml here and save to `%username%\Documents\EVE\Overview`, and then go to Overview Settings > Misc and click Import Overview Settings and select "BCTOR Overview" and make sure to click Check All before Import
+4. Download the .yaml here and save to `%username%\Documents\EVE\Overview`. Then navigate to `Overview Settings > Misc`, click "Import Overview Settings," select "FOSview," and then click "Check All" before "Import."
 
-5. Close Overview Settings and initiate a [Session Change](https://wiki.eveuniversity.org/Timers#Session_Change_Timer_.28SCT.29) (i.e. dock then undock)
+5. Close "Overview Settings" and initiate a [Session Change](https://wiki.eveuniversity.org/Timers#Session_Change_Timer_.28SCT.29) (i.e. dock then undock).
 
-6. Go to Overview Settings > Overview Tabs and set the colors you want for each tab in the dropdowns (my color choices are in the legend below). You must do this even if the tabs are already colored, it's merely a hold-over
+6. Navigate to `Overview Settings > Overview Tabs` and set the colors you want for each tab in the dropdowns. You must do this even if the tabs appear to be already colored, as they won't stick until you do.
 
-7. Go to Overview Settings > Appearance and Toggle Also apply to structures to re-enable the Colortags ability to flash in the Chat Windows Member Lists (don't ask why, but it works)
+7. Navigate to `Overview Settings > Appearance` and Toggle "Also apply to structures" to re-enable the Colortags ability to flash in the Chat Windows Member Lists (don't ask why, but it works).
 
 
 ### **Legend:**
 
-- ✈ - Travel tab, has zero ships on it (other than Trigs and Edencom), just used to more easily go from A to B
+- ✈ - Travel tab, has zero ships on it (other than Trigs and Edencom), used to more easily go from A to B. Especially in a busy system such as Jita.
 
-- Main - Default to here. You can pvp and do some light pve and travel
+- Main - This will be your default tab. You can PvP and do some light PvE and Travel.
 
-- ETC - Right click on this tab and use the Load Preset to Tab dropdown to swap between the "!" Overview Presets.
+- ETC - Right click on this tab and use the "Load Preset to Tab" dropdown to hotswap between these *!* Overview Presets.
   - !Drones - Only Drones/Fighters
   - !Incursion - Cuts out the clutter while running Incursions
   - !Loot - Shows only wrecks/MTUs/Mobile Depots/Containers
 
 
-- PvE - For ratting or site & mission running. Does not include wrecks or loot (use "!Loot" on the "ETC" tab for that, or add yourself if you wish)
+- PvE - For ratting or site & mission running. Does not include wrecks or loot (use *!Loot*" on the *ETC* tab for that, or add yourself if you wish utilizing the University Wiki links above).
 
-- Friendly - Same as "Main" but with the States changed to show Friendly and Fleet and no one else
+- Friendly - Same as the *Main* tab, but with the States changed to show Friendly and Fleet and no one else.
 
-- Mining - Mining
+- Mining - Works for belts, gas, ice, and moons.
 
-- ALL - No, really
+- ALL - No. Really. Everything.
 
-- GTFO - Tab here to get a warpout to save ship/pod and warp at 50-100
+- GTFO - Tab here to get a warpout to save your ship/pod and warp at 50-100.
 
 
 ### **D-Scan:**
 
 On your D-Scan window, click the Dropdown and select one of the following:
-- ..D-Scan: All - Shows almost everything on D-Scan
-- ..D-Scan: Defensive - Less clutter so you can see an incoming hunter
-- ..D-Scan: Offensive - For the hunter, includes wrecks and a few other bits
+- *..D-Scan: All* - Shows almost everything on D-Scan
+- *..D-Scan: Defensive* - Less clutter so you can see an incoming hunter
+- *..D-Scan: Offensive* - For the hunter, includes wrecks and a few other bits
+
+#### **Disclaimer**
+
+As CCP updates the game with new Types on the overview, they will not necessarily be automatically added to the Overview. I will of course release a new version as soon as I catch the new Types and add them to the appropriate tabs. But in the meantime I would suggest you do so yourself. In any case, even with an "up to date" FOSview, I am not responsible for any death, explosions, or corpses in space. We all must as capsuleers do our own due dilligence. Your death is on yourself.
