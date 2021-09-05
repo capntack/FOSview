@@ -14,7 +14,7 @@ Welcome to the GitHub for the FOSview (Free and Open Source overView) [EVE Onlin
 
 3. Navigate to `Overview Settings > Misc` and click "Reset All Overview Settings."
 
-4. Download the .yaml here and save to `%username%\Documents\EVE\Overview`. Then navigate to `Overview Settings > Misc`, click "Import Overview Settings," select "FOSview," and then click "Check All" before "Import."
+4. Download the Overview Pack [here](https://github.com/Kundar-Eto/FOSview/tree/master/Downloads) by Right Clicking on "FOSview[version number].yaml", selecting "Save Links As...", and save to `%username%\Documents\EVE\Overview`. Then navigate to `Overview Settings > Misc`, click "Import Overview Settings", select "FOSview", and then click "Check All" before "Import."
 
 5. Close "Overview Settings" and initiate a [Session Change](https://wiki.eveuniversity.org/Timers#Session_Change_Timer_.28SCT.29) (i.e. dock then undock).
 
