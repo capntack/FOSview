@@ -49,9 +49,9 @@ Welcome to the GitHub for the FOSview (Free and Open Source overView) [EVE Onlin
 ### **D-Scan:**
 
 On your D-Scan window, click the Dropdown and select one of the following:
-- *..D-Scan: All* - Shows almost everything on D-Scan
-- *..D-Scan: Defensive* - Less clutter so you can see an incoming hunter
-- *..D-Scan: Offensive* - For the hunter, includes wrecks and a few other bits
+- ..D-Scan: All - Shows almost everything on D-Scan
+- ..D-Scan: Defensive - Less clutter so you can see an incoming hunter
+- ..D-Scan: Offensive - For the hunter, includes wrecks and a few other bits
 
 #### **Disclaimer**
 
