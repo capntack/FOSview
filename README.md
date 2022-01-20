@@ -53,6 +53,10 @@ On your D-Scan window, click the Dropdown and select one of the following:
 - ..D-Scan: Defensive - Less clutter so you can see an incoming hunter
 - ..D-Scan: Offensive - For the hunter, includes wrecks and a few other bits
 
+### **Notes**
+
+I recommend using the ".ALL" Preset when running Abyssals. There is usually so little in them that it's easier to run them when you can simply see everything.
+
 #### **Disclaimer**
 
 As CCP updates the game with new Types on the overview, they will not necessarily be automatically added to the Overview. I will of course release a new version as soon as I catch the new Types and add them to the appropriate tabs. But in the meantime I would suggest you do so yourself. In any case, even with an "up to date" FOSview, I am not responsible for any death, explosions, or corpses in space. We all must as capsuleers do our own due dilligence. Your death is on yourself.
